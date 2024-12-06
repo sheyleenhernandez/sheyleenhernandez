@@ -8,7 +8,8 @@ But I do have some projects that you may want to see, if you're interested in wo
 
   <h3 align="left">Soft Skills:</h3>
 
-  ![TEAM WORK](https://github.com/user-attachments/assets/0d958d5a-2119-4b1c-a7d0-a0f6b07e37ff)
+![TEAM WORK (1)](https://github.com/user-attachments/assets/b7318855-a9c1-41dc-84f6-16dc5f2f53d7)
+
 
 
 <h3 align="left">Front-end Development Tools:</h3>  
