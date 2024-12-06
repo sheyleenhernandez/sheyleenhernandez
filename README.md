@@ -3,7 +3,9 @@ Hey there, my name is Sheyleen Hernández, I'm 19 years old, I'm from Barranquil
 Despite I don't have a huge formal experience working on Software Development projects, I did acquire experience working on projects with my classmates and I am constantly getting knowledge by doing small projects to learn different technologies and tools, you'll be able to see them in my personal portfolio.
 But I do have some projects that you may want to see, if you're interested in working with me after read this, please feel free to contact me and let's do something special together 👩🏽‍💻👋🏽
 
-  
+  ![TEAM WORK](https://github.com/user-attachments/assets/a335e55e-7108-4c77-86ca-322eab1ceb4f)
+    
+
 <h3 align="left">Front-end Development Tools:</h3>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 
