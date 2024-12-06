@@ -1,3 +1,3 @@
 ## Hi there, I'm Sheyleen 👋🏽👩🏽‍💻
 
-https://github.com/user-attachments/assets/22f2bde3-2941-47e8-8ef7-bfcf9dafebba
+![Brand Name](https://github.com/user-attachments/assets/13d29b28-9801-4e15-bbbb-3ebadbf00f42)
