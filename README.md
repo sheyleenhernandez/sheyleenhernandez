@@ -1,3 +1,5 @@
+  <h3 align="left">About Me:</h3>
+
 Hey there, my name is Sheyleen Hernández, I'm 19 years old, I'm from Barranquilla/Colombia. Currently, I'm a Junior Developer, and I'm focusing on react/react native at the moment 🔭  
 
 Despite I don't have a huge formal experience working on Software Development projects, I did acquire experience working on projects with my classmates and I am constantly getting knowledge by doing small projects to learn different technologies and tools, you'll be able to see them in my personal portfolio.
