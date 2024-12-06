@@ -3,6 +3,8 @@ Hey there, my name is Sheyleen Hernández, I'm 19 years old, I'm from Barranquil
 Despite I don't have a huge formal experience working on Software Development projects, I did acquire experience working on projects with my classmates and I am constantly getting knowledge by doing small projects to learn different technologies and tools, you'll be able to see them in my personal portfolio.
 But I do have some projects that you may want to see, if you're interested in working with me after read this, please feel free to contact me and let's do something special together 👩🏽‍💻👋🏽
 
+  <h3 align="left">Soft Skills:</h3>  
+
   ![TEAM WORK](https://github.com/user-attachments/assets/a335e55e-7108-4c77-86ca-322eab1ceb4f)
     
 
