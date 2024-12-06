@@ -1,4 +1,4 @@
-  <h1 align="left">WELCOME TO MY PROFILE</h1>
+  <h1 style="color: purple;" align="left">WELCOME TO MY PROFILE</h1>
     Hey there, my name is Sheyleen Hernández, I'm 19 years old, I'm from Barranquilla/Colombia. Currently, I'm a Junior Developer, and I'm focusing on react/react native at the moment 🔭  
       
   <h3 align="left">About Me:</h3>
