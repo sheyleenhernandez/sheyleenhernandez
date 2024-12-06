@@ -1,4 +1,5 @@
-![Brand Name](https://github.com/user-attachments/assets/13d29b28-9801-4e15-bbbb-3ebadbf00f42)
+![Diseño sin título](https://github.com/user-attachments/assets/473cd09b-14e5-4124-8f16-48a500c37015)
+
 ## Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
