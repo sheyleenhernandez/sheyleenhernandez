@@ -19,11 +19,6 @@ But I do have some projects that you may want to see, if you're interested in wo
 <p align="left">
 <a href="https://linkedin.com/in/sheyleenhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheyleenhc" height="30" width="40" /></a>
 </p>
-<svg width="100" height="50" viewBox="0 0 100 50" xmlns="http://www.w3.org/2000/svg">
-  <path d="M50,0 A50,50 0 1,1 50,100 A50,50 0 1,1 50,0" fill="#e34f26"/>
-  <circle cx="50" cy="50" r="20" fill="#ffffff"/>
-  <text x="50%" y="55%" text-anchor="middle" fill="#000" font-size="15px" font-family="Arial" dy=".3em">⚙️</text>
-</svg>
 
   
 ![Diseño sin título](https://github.com/user-attachments/assets/1123c697-f0ec-4922-bfb0-485b6e1ea041)
