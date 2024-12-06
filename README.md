@@ -4,7 +4,8 @@ Despite I don't have a huge formal experience working on Software Development pr
 But I do have some projects that you may want to see, if you're interested in working with me after read this, please feel free to contact me and let's do something special together 👩🏽‍💻👋🏽
 
   <h3 align="left">Soft Skills:</h3>
-    ![TEAM WORK](https://github.com/user-attachments/assets/5abf68d9-fce6-484e-8762-271c6b3b727b)
+
+  ![TEAM WORK](https://github.com/user-attachments/assets/0d958d5a-2119-4b1c-a7d0-a0f6b07e37ff)
 
 
 <h3 align="left">Front-end Development Tools:</h3>  
