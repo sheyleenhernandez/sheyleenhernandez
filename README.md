@@ -27,4 +27,3 @@ But I do have some projects that you may want to see, if you're interested in wo
 </p>
 
   
-![Diseño sin título](https://github.com/user-attachments/assets/1123c697-f0ec-4922-bfb0-485b6e1ea041)
