@@ -9,4 +9,5 @@ But I  do have some projects that you may want to see, if you're interested in w
 <p align="left">
 <a href="https://linkedin.com/in/sheyleenhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheyleenhc" height="30" width="40" /></a>
 </p>
-![Diseño sin título](https://github.com/user-attachments/assets/473cd09b-14e5-4124-8f16-48a500c37015)
+
+![Diseño sin título](https://github.com/user-attachments/assets/1123c697-f0ec-4922-bfb0-485b6e1ea041)
